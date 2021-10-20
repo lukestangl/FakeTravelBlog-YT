@@ -11,7 +11,7 @@ Desktop View:
 
 Mobile View:
 
-![image](https://user-images.githubusercontent.com/43559655/138159448-ce324035-212c-4c20-9f77-dc7e9dfb1786.png)
+![image](https://user-images.githubusercontent.com/43559655/138159983-1335168c-790c-4725-865c-4d3b8b18e415.png)
 ![image](https://user-images.githubusercontent.com/43559655/138159698-9cf7bf9d-ba38-43f0-8294-fa193dab3ba7.png)
 
 
