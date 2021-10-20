@@ -12,7 +12,9 @@ Desktop View:
 Mobile View:
 
 ![image](https://user-images.githubusercontent.com/43559655/138159983-1335168c-790c-4725-865c-4d3b8b18e415.png)
+
 ![image](https://user-images.githubusercontent.com/43559655/138159698-9cf7bf9d-ba38-43f0-8294-fa193dab3ba7.png)
+
 ![image](https://user-images.githubusercontent.com/43559655/138160184-a7e20841-dcee-482e-a814-7897b0c6eaec.png)
 
 
